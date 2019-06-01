@@ -1,4 +1,4 @@
-#Deep Learning Course Assignments
+# Deep Learning Course Assignments
 
 These are my solutions to the assignments of Deep Learning Course Spring 2019 by Professor Mahdieh Soleymani. Most of my assignments were done with Google Colab.
 
